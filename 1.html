@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    
+    <script src="sketch.js">
+      var portname = 'com5'
+      let serial; 
+      var val; 
+      
+      function setup() {
+        createCanvas(300, 300); 
+        create_serial(); 
+      }
+      
+      function create_serial() {
+        serial = new p5.SerialPort(); 
+        serial.on("data", serialEvent);
+        serial.open(portname); 
+        
+        function serialEvent() {
+          var inString = Serial.readline(); 
+          
+          if (inString.lenhth > 0) {
+            var = Number(inString); 
+          }
+        }
+      }
+      
+      function draw() {
+        update_scene(); 
+      }
+      
+      funtion update_scene() {} {
+        background(255); 
+        textSize(32); 
+        text(val, 10, 30); 
+        fill(0); 
+      }
+    </script>
+  </body>
+</html>
