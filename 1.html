@@ -3,14 +3,16 @@
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
 
   </head>
   <body>
     
-    <script src="sketch.js">
-      var portname = 'com5'
+    <script>
+      var portname = 'COM3'
       let serial; 
       var val; 
       
@@ -24,11 +26,12 @@
         serial.on("data", serialEvent);
         serial.open(portname); 
         
-        function serialEvent() {
-          var inString = Serial.readline(); 
+      
+      function serialEvent() {
+          var inString = serial.readLine(); 
           
-          if (inString.lenhth > 0) {
-            var = Number(inString); 
+          if (inString.length > 0) {
+            vaㅣ = Number(inString); 
           }
         }
       }
@@ -37,12 +40,13 @@
         update_scene(); 
       }
       
-      funtion update_scene() {} {
+      function update_scene() {
         background(255); 
         textSize(32); 
         text(val, 10, 30); 
         fill(0); 
       }
+      
     </script>
   </body>
 </html>
