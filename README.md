@@ -18,6 +18,14 @@ https://m.blog.naver.com/icbanq/222874162899
 
 https://m.blog.naver.com/icbanq/222879638877
 
+* LCD에서 글자가 나오지 않는 경우
+  1. 저항값 조절 ( 뒤에 드라이버로 나사 풀기 )
+  2. 시작 주소 위치 변경
+   1) LiquidCrystal_I2C lcd(0x20,16,2);
+   2) LiquidCrystal_I2C lcd(0x27,16,2);
+   3) LiquidCrystal_I2C lcd(0x3F,16,2); 
+
+
 4차시 양방향 통신 
 
 https://m.blog.naver.com/icbanq/222886529322
