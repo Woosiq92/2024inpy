@@ -1,10 +1,10 @@
 # 2024inpy
 
-수행평가 제출 안내 
+## 수행평가 제출 안내 
 
 https://classroom.google.com/c/NjU5NDI4MTc1NTMy?cjc=3x73dxp
 
-학습 교안 
+## 학습 교안 
 
 1차시 
 
