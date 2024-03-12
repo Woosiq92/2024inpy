@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
+   <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  <fieldset>
+    <legend>7-colorLED</legend>
+    <div>
+      <input type="checkbox" id="7-on-off" name="twoOnOff" />
+      <label for="7-on-off">on/off</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>2-colorLED</legend>
+    <div>
+      <input type="checkbox" id="2-on-off" name="twoOnOff" />
+      <label for="2-on-off">on/off</label>
+    </div>
+    <div>
+      <input type="radio" id="2-red" name="twoRadio" value="5" checked />
+      <label class="red" for="2-red">RED</label>
+    </div>
+    <div>
+      <input type="radio" id="2-green" name="twoRadio" value="6">
+      <label class="green" for="2-green">GREEN</label>
+    </div>
+  </fieldset>
+  <script src="sketch.js"></script>
+</body>
+</html>
