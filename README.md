@@ -1,6 +1,6 @@
 # 2024inpy
 
-## 수행평가 제출 안내 
+## 수행평가 제출 안내 ( 과제 확인 )  
 
 https://classroom.google.com/c/NjU5NDI4MTc1NTMy?cjc=3x73dxp
 
