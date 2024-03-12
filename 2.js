@@ -20,5 +20,6 @@ val = Number(inString); //val 변수에 할당해줍니다.
 function draw() { //draw 함수정의
 background('beige'); //바탕색 설정
 textSize(32); // 텍스트크기 설정
-text(val, 10, 30); // 화면에 val 변수값을 노출(10,30 좌표에) fill(0); // 글씨색 설정 (0일경우 검정색)
+text(val, 10, 30); // 화면에 val 변수값을 노출(10,30 좌표에) 
+fill(0); // 글씨색 설정 (0일경우 검정색)
 }
