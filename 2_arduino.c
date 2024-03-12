@@ -1,13 +1,13 @@
-#include <wire.h> 
+#include <Wire.h> 
 #include <ezButton.h> 
 
 ezButton myButton(7); 
 
-int Value = 0; 
+int value = 0; 
 
 void setup() {
   Serial.begin(9600);
-  myButton.setDebounceTiome(50); 
+  myButton.setDebounceTime(50); 
 }
 
 void loop() {
