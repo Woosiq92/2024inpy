@@ -34,6 +34,14 @@ https://m.blog.naver.com/icbanq/222879638877
 
 https://m.blog.naver.com/icbanq/222886529322
 
-5차시 웹 버튼으로 LED 제어 ( 부품 없음 ) 
+5차시 웹 버튼으로 LED 제어 ( 실습 x ) 
 
 https://m.blog.naver.com/icbanq/222894373161
+
+6차시 버튼으로 웹 그림 바꾸기 ( 실습 x ) 
+
+https://m.blog.naver.com/icbanq/222898450895
+
+7차시 웹 슬라이더로 제어하는 rgb led
+
+https://m.blog.naver.com/icbanq/222904522625
