@@ -49,3 +49,44 @@ https://m.blog.naver.com/icbanq/222904522625
 8차시 조이스틱으로 그림그리기 
 
 https://m.blog.naver.com/icbanq/222911144604
+
+9차시 센서값 웹화면에 출력하기 ( 실습 x ) 
+
+https://m.blog.naver.com/icbanq/222918599044
+
+10차시 온습도 센서 값 출력하기 ( 온습도 센서만 ) 
+
+https://m.blog.naver.com/icbanq/222924154372
+
+11차시 티처블 머신 소개 
+
+https://m.blog.naver.com/icbanq/222929150167
+
+12차시 인공지능 프로젝트 1
+
+https://m.blog.naver.com/icbanq/222934521411
+
+13차시 인공지능 프로젝트 2 
+
+https://m.blog.naver.com/icbanq/222940347262
+
+14차시 웹 슬라이더로 서보모터 제어 ( 실습 x ) 
+
+https://m.blog.naver.com/icbanq/222946496978
+
+15차시 스텝 모터 제어 
+
+https://m.blog.naver.com/icbanq/222953499013
+
+16차시 7세그먼트 제어 
+
+https://m.blog.naver.com/icbanq/222959982033
+
+17차시 초음파 센서 
+
+https://m.blog.naver.com/icbanq/222966113964
+
+
+
+
+
