@@ -4,6 +4,10 @@
 
 https://classroom.google.com/c/NjU5NDI4MTc1NTMy?cjc=3x73dxp
 
+## 참고 영상 
+
+https://youtube.com/watch?v=8MKUsTWXies&si=0OkpeyNBF_-2uVz6
+
 ## 학습 교안 
 
 1차시 개발환경 준비 
