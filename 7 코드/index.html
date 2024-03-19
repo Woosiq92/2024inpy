@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
+   <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="slide-wrapper" id="slide-wrapper">
+      <div class="red-slide-container">
+      <span class="red-slide-value" id="red-slide-value">RED : 0</span>
+      <input class="red-slide" id="red-slide" name="R" type="range" min="0" max="255"  value="0">
+    </div>
+    <div class="green-slide-container">
+      <span class="green-slide-value" id="green-slide-value">GREEN : 0</span>
+      <input class="green-slide" id="green-slide" name="G" type="range" min="0" max="255" value="0">
+    </div>
+    <div class="blue-slide-container">
+      <span class="blue-slide-value" id="blue-slide-value">BLUE : 0</span>
+      <input class="blue-slide" id="blue-slide" name="B" type="range" min="0" max="255" value="0">
+    </div>
+  </div>
+  <script src="sketch.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+html,
+body {
+  font-size: 20px;
+}
+
+.slide-wrapper {
+  display: flex;
+  padding-bottom: 4px;
+  border-bottom: 50px solid black;
+}
+
+.red-slide-container,
+.green-slide-container,
+.blue-slide-container {
+  display: flex;
+  flex: 1 0;
+  flex-direction: column;
+}
+
+.red-slide-container {
+  border-bottom: 50px solid red;
+}
+
+.green-slide-container {
+  border-bottom: 50px solid green;
+}
+
+.blue-slide-container {
+  border-bottom: 50px solid blue;
+}
