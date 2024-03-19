@@ -45,3 +45,7 @@ https://m.blog.naver.com/icbanq/222898450895
 7차시 웹 슬라이더로 제어하는 rgb led
 
 https://m.blog.naver.com/icbanq/222904522625
+
+8차시 조이스틱으로 그림그리기 
+
+https://m.blog.naver.com/icbanq/222911144604
