@@ -34,6 +34,6 @@ https://m.blog.naver.com/icbanq/222879638877
 
 https://m.blog.naver.com/icbanq/222886529322
 
-5차시 웹 버튼으로 LED 제어 
+5차시 웹 버튼으로 LED 제어 ( 부품 없음 ) 
 
 https://m.blog.naver.com/icbanq/222894373161
