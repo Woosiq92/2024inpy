@@ -22,3 +22,9 @@ function canvasDraw() {
   // 캔버스에 그리기 코드 유지
   // ...
 }
+
+lineWidth: 선의 두께를 설정합니다.
+lineCap: 선의 끝 모양을 설정합니다. 옵션은 'butt', 'round', 'square' 입니다.
+lineJoin: 두 선이 만나는 지점의 모양을 설정합니다. 옵션은 'round', 'bevel', 'miter' 입니다.
+strokeStyle: 선의 색상이나 스타일을 설정합니다.
+setLineDash: 선의 대시 패턴을 설정합니다.
