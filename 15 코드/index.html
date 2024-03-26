@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5.serialserver@0.0.28/lib/p5.serialport.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <form onsubmit="return false;">
+      <div>속도 : &nbsp;<input type="text" name="speed" /></div>
+      <div>각도 : &nbsp;<input type="text" name="angle" /></div>
+      <button onclick="onSubmit()">확인</button>
+    </form>
+    <script src="sketch.js"></script>
+  </body>
+</html>
