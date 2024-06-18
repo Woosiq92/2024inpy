@@ -10,15 +10,15 @@ https://youtube.com/watch?v=8MKUsTWXies&si=0OkpeyNBF_-2uVz6
 
 ## 학습 교안 
 
-1차시 개발환경 준비 
+1차시 개발환경 준비 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222869451063
 
-2차시 아두이노 -> p5.js 로 데이터 전송 
+2차시 아두이노 -> p5.js 로 데이터 전송 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222874162899
 
-3차시 p5.js -> 아두이노로 데이터 전송 
+3차시 p5.js -> 아두이노로 데이터 전송 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222879638877
 
@@ -30,7 +30,7 @@ https://m.blog.naver.com/icbanq/222879638877
      3) LiquidCrystal_I2C lcd(0x3F,16,2); 
 
 
-4차시 양방향 통신 
+4차시 양방향 통신 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222886529322
 
@@ -42,11 +42,11 @@ https://m.blog.naver.com/icbanq/222894373161
 
 https://m.blog.naver.com/icbanq/222898450895
 
-7차시 웹 슬라이더로 제어하는 rgb led
+7차시 웹 슬라이더로 제어하는 rgb led ( 기말 )
 
 https://m.blog.naver.com/icbanq/222904522625
 
-8차시 조이스틱으로 그림그리기 
+8차시 조이스틱으로 그림그리기 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222911144604
 
@@ -58,15 +58,15 @@ https://m.blog.naver.com/icbanq/222918599044
 
 https://m.blog.naver.com/icbanq/222924154372
 
-11차시 티처블 머신 소개 
+11차시 티처블 머신 소개 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222929150167
 
-12차시 인공지능 프로젝트 1
+12차시 인공지능 프로젝트 1 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222934521411
 
-13차시 인공지능 프로젝트 2 
+13차시 인공지능 프로젝트 2 ( 기말 )
 
 https://m.blog.naver.com/icbanq/222940347262
 
